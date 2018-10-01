@@ -1,0 +1,12 @@
+{"dependencia":[{"id":"1","nombre":"Decanatura","imagen":"",
+    "departamento":[{"idDepartamento":"1","nombreDepto":"Decano"},
+                    {"idDepartamento":"2","nombreDepto":"Secretaria General"}] },
+    {"id":"2","nombre":"Depto Sistemas","imagen":"",
+        "departamento":[{"idDepartamento":"1","nombreDepto":"jefe de Departamento"},
+                     {"idDepartamento":"2","nombreDepto":"Tesoreria"}]},
+    
+    {"id":"3","nombre":"Depto Electronica","imagen":"",
+        "departamento":[{"idDepartamento":"1","nombreDepto":"jefe de Departamento"},
+                    {"idDepartamento":"2","nombreDepto":"Tesoreria"}]}
+]}
+   
